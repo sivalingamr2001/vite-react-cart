@@ -1,0 +1,182 @@
+[
+  {
+    "id": 101,
+    "name": "Veggie Delight",
+    "amt": "249",
+    "shop": "Domino's Pizza",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/1.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 102,
+    "name": "Chicken Supreme",
+    "amt": "299",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/2.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 103,
+    "name": "Margherita",
+    "amt": "199",
+    "shop": "Papa John's",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/3.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 104,
+    "name": "Pepperoni Feast",
+    "amt": "349",
+    "shop": "Domino's Pizza",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/4.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 105,
+    "name": "BBQ Chicken",
+    "amt": "329",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/89.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 106,
+    "name": "Four Cheese",
+    "amt": "299",
+    "shop": "Papa John's",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/6.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 107,
+    "name": "Garden Fresh",
+    "amt": "279",
+    "shop": "Domino's Pizza",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/7.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 108,
+    "name": "Hawaiian",
+    "amt": "319",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/8.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 109,
+    "name": "Meat Lover's",
+    "amt": "359",
+    "shop": "Papa John's",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/9.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 110,
+    "name": "Spicy Veggie",
+    "amt": "289",
+    "shop": "Domino's Pizza",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/10.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 111,
+    "name": "Cheese Burst",
+    "amt": "319",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/11.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 112,
+    "name": "Veg Extravaganza",
+    "amt": "339",
+    "shop": "Papa John's",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/12.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 113,
+    "name": "Farmhouse",
+    "amt": "299",
+    "shop": "Domino's Pizza",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/13.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 114,
+    "name": "Paneer Tikka",
+    "amt": "329",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/14.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 115,
+    "name": "Mexican Green Wave",
+    "amt": "279",
+    "shop": "Papa John's",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/15.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 116,
+    "name": "Deluxe Veggie",
+    "amt": "349",
+    "shop": "Domino's Pizza",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/16.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 117,
+    "name": "Tandoori Chicken",
+    "amt": "379",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/17.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 118,
+    "name": "Cheesy Margherita",
+    "amt": "259",
+    "shop": "Papa John's",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/18.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 119,
+    "name": "Pepper Barbecue",
+    "amt": "349",
+    "shop": "Domino's Pizza",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/19.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 120,
+    "name": "Cheese N Corn",
+    "amt": "279",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "http://www.app.tutorjoes.in/img/food/20.jpg",
+    "latest": "No"
+  }
+]
